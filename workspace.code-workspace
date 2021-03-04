@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Desktop\\p5.play-boilerplate-master"
+		},
+		{
+			"path": "..\\..\\..\\..\\Desktop\\tomAndJerryTemplate-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tomAndJerryTemplate-master"
+	}
+}
